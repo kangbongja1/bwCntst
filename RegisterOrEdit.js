@@ -1,4 +1,5 @@
-// RegisterOrEdit.js 
+/* RegisterOrEdit.js (TestDoc) */
+
 import React from "react"; 
 import { Link } from "react-router-dom"; 
 import { Button, Input } from "antd"; 
